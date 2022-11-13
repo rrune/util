@@ -187,7 +187,7 @@ form {
 /* A box */
 
 .box {
-  background-color: var(--background-accent);
+  background-color: var(--background-brighter);
   width: 24%;
   min-width: 300px;
   margin: 10px;
@@ -212,7 +212,7 @@ form {
 }
 
 .box .entry {
-  background-color: var(--background-accent-accent);
+  background-color: var(--background-brighter2);
   padding: 10px 15px;
   margin-top: 3%;
   border-radius: 8px;
